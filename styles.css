@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+    color:lime;
+}
+.clock{
+    top:50%;
+    left:50%;
+    font-family:Orbitron;
+    font-size:60px;
+    position:absolute;
+    transform:translateX(-50%) translateY(-50%);
+    letter-spacing:7px;
+}
